@@ -1,0 +1,15 @@
+14
+1,Isparta Prag
+2,Pendik United
+3,Real Mardin
+4,Bursa Dortmund
+5,Buca Juniors
+6,Spartak Bornova
+7,Dinamo Bitlis
+8,Alcoholic Bilbao
+9,SSK Moskova
+10,Oklava City
+11,Haddini Bilbao
+12,Olympique Limon
+13,Karşıyaka Bulls
+14,Göztepe Spurs

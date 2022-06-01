@@ -1,0 +1,15 @@
+14
+6,Thor,40,40,40,50
+13,Captain America,35,25,25,50
+14,Iron Man,40,40,40,30
+3,HULK,40,30,40,50
+4,Black Widow,30,35,35,45
+8,Deadpool,15,25,20,50
+2,Hawkeye,25,30,30,40
+7,Scarlet Witch,30,20,30,45
+11,Spider Man,30,30,30,30
+1,Doctor Strange,35,50,15,40
+10,Loki,20,20,20,50
+5,Thanos,35,20,40,50
+9,Groot,20,30,20,45
+12,Black Panther,40,40,40,30
